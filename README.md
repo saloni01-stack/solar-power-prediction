@@ -22,3 +22,4 @@ Python, Pandas, Matplotlib, Seaborn, Scikit-learn, Google Colab
 ## Key Findings
 - Power generation peaks around midday
 - Irradiation has the strongest relationship with power output
+- Linear Regression performs almost as well as Random Forest, confirming the near-linear relationship between irradiation and power
